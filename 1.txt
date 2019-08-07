@@ -4,3 +4,5 @@ run;
 
 proc print data=claims2;
 run;
+
+/****Result***/
