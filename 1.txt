@@ -1,0 +1,3 @@
+data claims2;
+set claims1;
+run;
