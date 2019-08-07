@@ -1,3 +1,6 @@
 data claims2;
 set claims1;
 run;
+
+proc print data=claims2;
+run;
